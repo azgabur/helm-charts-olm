@@ -3,9 +3,9 @@ entries:
   kuadrant-instances:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-07-22T16:06:51.280352416Z"
+    created: "2025-07-22T16:09:52.835021821Z"
     description: A Helm chart for Kubernetes
-    digest: 56e942f363a2597a8f975afde58aa0a198cdab7bcc78fff41e7d8a926ee11918
+    digest: 6cba6682919441c34c269632582634a9976a0eb99a3fba263f73365c959518d0
     name: kuadrant-instances
     type: application
     urls:
@@ -14,9 +14,9 @@ entries:
   kuadrant-operators:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-07-22T16:06:51.289857768Z"
+    created: "2025-07-22T16:09:52.844456709Z"
     description: A Helm chart for Kubernetes
-    digest: 0acd966608eb4f6fd74ad6a4fd3ce66fadac9d527908d74b22f6f146b956658e
+    digest: d3935ae62ecbe628e135d792afbe9f96f45a7fa765451575bdd9e7eaf033391f
     name: kuadrant-operators
     type: application
     urls:
@@ -25,9 +25,9 @@ entries:
   tools-instances:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-07-22T16:06:51.290225059Z"
+    created: "2025-07-22T16:09:52.844937232Z"
     description: A Helm chart containing tools needed for testing Kuadrant
-    digest: 6da5f71df7ad0d19354797428e5df34f9fb0cb28edb723d594d9275322ba709b
+    digest: c1b26c9d991295afc2806d3c8116bf184719234e19d85d0008a4a01acf0dedae
     name: tools-instances
     type: application
     urls:
@@ -36,12 +36,12 @@ entries:
   tools-operators:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-07-22T16:06:51.290461664Z"
+    created: "2025-07-22T16:09:52.845193684Z"
     description: A Helm chart containing operators tools needed for testing Kuadrant
-    digest: e6d225702ad6c6421459ac0c75640dc5502d94cec80546219cc6989e6173a79f
+    digest: ffb6039c4cc9d03bd77339c4df76f180f90ce6eed554a3e85398a4d9517606c5
     name: tools-operators
     type: application
     urls:
     - tools-operators-0.1.0.tgz
     version: 0.1.0
-generated: "2025-07-22T16:06:51.279873906Z"
+generated: "2025-07-22T16:09:52.83452134Z"
